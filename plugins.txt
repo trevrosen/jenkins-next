@@ -1,0 +1,11 @@
+plain-credentials
+scm-api
+git-client
+git
+github-api
+github
+jobConfigHistory
+jquery
+parameterized-trigger
+build-pipeline-plugin
+scm-sync-configuration
