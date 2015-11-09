@@ -17,6 +17,6 @@ Jenkins should be able to be brought back to life effortlessly if something happ
 - Build every PR against `master` on any projects we want
 - Visualize all builds as [pipelines](https://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin)
 - Allow early fail of quick build steps
-- Power awesome, potentially whimsical [information radiators](https://www.atlassian.com/wallboahttps://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin
+- Power awesome, potentially whimsical [information radiators](https://www.atlassian.com/wallboahttps://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin)
 - Keep all configuration sync'd to GitHub in a special repo
 - Help us add new steps easily, such as coverage/documenation enforcement
