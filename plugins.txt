@@ -9,3 +9,5 @@ jquery
 parameterized-trigger
 build-pipeline-plugin
 scm-sync-configuration
+
+ghprb
